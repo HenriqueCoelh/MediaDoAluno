@@ -1,5 +1,18 @@
 fun main(args: Array<String>) {
+/*
+Exercício 1
 
+1 - Abra o IntelliJ e crie um projeto chamado MediaDoAluno
+2 - Crie um programa onde o usuário digite as notas referente a 4 bimestres e calcule a média.
+No final, verifique a situação do aluno com base nesses dados:
+
+- Reprovado se a média for 4 ou menos
+- Regular se a média for maior que 4 e menor ou igual a 5
+- Boa se a média for maior do que 5 e menor ou igual a 8
+- Excelente se a média for maior do que 8 e menor ou igual a 10
+- Se a média der um número negativo ou     uma nota fora da escala de 0 a 10,
+deverá ser printado média inválida
+ */
     var not1= 0.0
     var not2 = 0.0
     var not3 = 0.0
